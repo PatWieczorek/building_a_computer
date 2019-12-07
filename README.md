@@ -1,5 +1,4 @@
 The best way to learn is to do.
-I decided to build a computer following the book:
-The Elements of Computing Systems: Building a Modern Computer from First Principles
+I decided to build a computer following this <a href=https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686 tag="a1">book</a>
 
 I will post my progress here.
