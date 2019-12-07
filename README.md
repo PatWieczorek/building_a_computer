@@ -1,5 +1,5 @@
 
-I need to understand how a computer really works, so all my low level abstraction thinking will have a solid grounding in reality, so I have decided to build a computer following this <a href=https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686 tag="a1">book</a>.
+I need to understand how a computer works in-depth, so all my low-level abstraction thinking will have a solid grounding in reality, so I have decided to build a computer following this <a href=https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686 tag="a1">book</a>.
 
 Let's go!
 
