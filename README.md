@@ -3,5 +3,5 @@ I decided to build a computer following this <a href=https://www.amazon.com/Elem
 
 I will post my progress here.
 
-<b>First step:</b><br>
+<b>part 0x01:</b><br>
 I have built 16 elementary logic gates starting from nand.<br>PS. Don't uderestimate demultiplexers. 
