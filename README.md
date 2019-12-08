@@ -8,5 +8,4 @@ I have built 16 elementary logic gates starting from nand.<br>
 
 <b>part 0x02</b><br>
 I have created a simple adder that adds 2 bits then I used it to make a 16-bit adder.<br>
-Since I have learned how to add, I wanted to learn how to subtract as well.
-Therefore I had to understand <a href=https://en.wikipedia.org/wiki/Two%27s_complement>how a negative number is stored </a> in a modern computer.
+To create a subtracting chip, I have had to understand <a href=https://en.wikipedia.org/wiki/Two%27s_complement>how a negative number is stored </a> in a modern computer.
