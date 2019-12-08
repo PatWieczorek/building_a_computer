@@ -5,6 +5,7 @@ Let's go!
 
 <b>part 0x01</b><br>
 I have built 16 elementary logic gates starting from nand.<br>
+It was a healthy exercise in boolean logic.
 
 <b>part 0x02</b><br>
 I have created a simple adder that adds 2 bits then I used it to make a 16-bit adder.<br>
