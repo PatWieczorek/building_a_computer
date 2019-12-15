@@ -12,6 +12,6 @@ I have created a simple adder that adds 2 bits then I used it to make a 16-bit a
 Having that done, I have spent a good deal of my time creating an ALU, the first part of the CPU.
 
 <b>part 0x03</b><br>
-This week was a transition from combinational logic to sequential logic.
+This week was a transition from combinational logic to sequential logic.<br>
 First, I have created 1 register chip, which I extended to 8 register chip, then I recursively increased its size. 
 The final product was a 16-bit,16384 register RAM chip.
