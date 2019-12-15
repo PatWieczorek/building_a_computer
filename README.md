@@ -14,4 +14,4 @@ Having that done, I have spent a good deal of my time creating an ALU, the first
 <b>part 0x03</b><br>
 This week was a transition from combinational logic to sequential logic.<br>
 First, I have created 1-bit register, which I extended to 16-bit register chip, then I recursively increased its size.<br> 
-The final product was a 16-bit,16384 register RAM chip.
+The final product was a 16-bit, 16384 register RAM chip.
