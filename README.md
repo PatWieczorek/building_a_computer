@@ -9,5 +9,9 @@ It was a healthy exercise in boolean logic.
 
 <b>part 0x02</b><br>
 I have created a simple adder that adds 2 bits then I used it to make a 16-bit adder.<br>
-There was no need to create a subtracting chip, but to realize that I have had to understand <a href=https://en.wikipedia.org/wiki/Two%27s_complement>how a negative number is stored </a> in a modern computer.<br>
 Having that done, I have spent a good deal of my time creating an ALU, the first part of the CPU.
+
+<b>part 0x03</b><br>
+This week was a transition from combinational logic to sequential logic.
+First, I have created 1 register chip, which I extended to 8 register chip, then I recursively increased its size. 
+The final product was a 16-bit,16384 register RAM chip.
